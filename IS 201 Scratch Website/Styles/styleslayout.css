@@ -1,0 +1,112 @@
+body{
+    background-color: #9bb7c4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.common {
+    border: 2px solid white;
+    height: auto;
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border: 2px solid white;
+}
+
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 250px;
+    bottom: 39px;
+    z-index: 1;
+    padding-top: 10px;
+    text-align: center;
+    height: 824px;
+}
+
+.leftmenu2{
+    top: 114px;
+    left: 5px;
+    width: 160px;
+    bottom: 39px;
+    z-index: 1;
+    padding-top: 10px;
+    height: 2299px;
+}
+
+.mainbody{
+    top: 114px;
+    left: 265px;
+    right: 270px;
+    bottom: 39px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 10px;
+    height: 824px;
+    text-align: center;
+    
+}
+
+.mainbody2{
+    top: 114px;
+    left: 175px;
+    right: 295px;
+    bottom: 100px;
+    padding-left: 10px;
+    height: 2309px;
+}
+
+.rightmenu{
+    top: 114px;
+    right: 5px;
+    width: 250px;
+    bottom: 39px;
+    padding-left: 5px;
+    padding-top: 10px;
+    height: 824px;
+    text-align: center;
+}
+
+.rightmenu2{
+    top: 114px;
+    right: 5px;
+    width: 275px;
+    height: 800px;
+    bottom: 39px;
+    padding-left: 5px;
+    height: 2309px;
+    text-align: center;
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    top: 950px;
+    height: 25px;
+    font-size: 8px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.footer2{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    top: 2425px;
+    height: 25px;
+    font-size: 8px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.subheader{
+    float: right;
+}
